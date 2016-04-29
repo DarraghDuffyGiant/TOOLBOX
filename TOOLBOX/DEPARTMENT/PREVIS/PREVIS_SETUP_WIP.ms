@@ -1,4 +1,5 @@
 try closeRolloutFloater FirstDialog catch()
+--test
 include "C:\\SVN\\GOJETTERS\\TOOLBOX\\GENERAL\\FILE_TOOLS_WIP.ms"
 include "C:\\SVN\\GOJETTERS\\TOOLBOX\\GENERAL\\SVN_TOOLS.ms"
 include "C:\\SVN\\GOJETTERS\\TOOLBOX\\GENERAL\\CAMERA_TOOLS.ms"
